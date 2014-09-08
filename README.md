@@ -1,9 +1,4 @@
-      			README
-			      ======
-
-	    	    RandomDrawing v2
-	    	    ----------------
-		        Liam Sargent
+JRandomDrawing V2
 
 
 Welcome to JRandomDrawing's readme.txt, where anything is possible, as
