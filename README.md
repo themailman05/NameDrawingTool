@@ -1,4 +1,3 @@
-JRandomDrawing V2
 
 
 Welcome to JRandomDrawing's readme.txt, where anything is possible, as
@@ -14,18 +13,20 @@ Great question.
 	(It probably does, and it is probably out of date. Yes, you should let it
 	update.)
 
-2)	Create a file called "names.csv" that contains only the names you wish to
+2)	Export the entire project folder as "RandomDrawing.jar"
+
+3)	Create a file called "names.csv" that contains only the names you wish to
 	draw from, separated line by line. See the included "names.csv" for example.
 	(This file can be created by deleting all other cells from a spreadsheet besides
 	the names you wish to draw from, and "Save As" a .csv file.)
 
-3)	Put "names.csv" in the same folder as "RandomDrawing.jar" ***SUPER IMPORTANT***
+4)	Put "names.csv" in the same folder as "RandomDrawing.jar" ***SUPER IMPORTANT***
 
-4)	Double click "RandomDrawing.jar". A GUI box should open within a few seconds.
+5)	Double click "RandomDrawing.jar". A GUI box should open within a few seconds.
 
-5)	Click the big button
+6)	Click the big button
 
-6)	Distribute iPad
+7)	Distribute iPad
 
 
 Problems? Like what you see? Want to tell me a joke?
