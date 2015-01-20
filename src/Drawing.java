@@ -13,8 +13,8 @@ import java.util.Scanner;
  * Drawing controller and file IO class for Random Drawing Simulator.
  * 
  * Liam Sargent
- * v2
- * 7/13/2014
+ * v3
+ * 1/20/2015
  * 
  * @github themailman05
  ****************************************************************************/
@@ -105,7 +105,7 @@ public class Drawing
     {
         String winningName;
         
-        winningName = drawingNames[random.nextInt(drawingNames.length-1)];
+        winningName = drawingNames[random.nextInt(drawingNames.length)];
         return winningName;
     }
 
