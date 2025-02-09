@@ -96,10 +96,9 @@ public class Drawing
     }
     /*************************************************************************
      * Incredibly complex and brilliant method for picking a random name
-     * from drawingNames. THIS IS WHERE YOU COULD HACK THIS TO RIG THE RESULTS
-     * IF ONE WERE SO INCLINED, BUT DON'T TELL THE ENGINEERS THAT.
+     * from drawingNames. Definitely don't seed this.
      * 
-     * @return A FREE IPAD MINI
+     * @return winner!
      */
     static String getRandomName()
     {
